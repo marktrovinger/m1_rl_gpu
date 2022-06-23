@@ -1,0 +1,22 @@
+{
+    "os": "macOS-11.2.1-arm64-arm-64bit",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-06-23T01:37:52.023324",
+    "startedAt": "2022-06-23T01:37:51.234697",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/marktrovinger/Projects/m1_rl_gpu/pong_training.py",
+    "codePath": "pong_training.py",
+    "git": {
+        "remote": "https://github.com/marktrovinger/m1_rl_gpu.git",
+        "commit": "54604321867e7277640df5eb08dd35a82de5ab56"
+    },
+    "email": "mark.trovinger@gmail.com",
+    "root": "/Users/marktrovinger/Projects/m1_rl_gpu",
+    "host": "Marks-MacBook-Air.local",
+    "username": "marktrovinger",
+    "executable": "/usr/local/Caskroom/miniforge/base/envs/m1gpu/bin/python"
+}

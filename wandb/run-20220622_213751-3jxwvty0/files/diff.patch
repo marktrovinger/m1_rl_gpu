@@ -1,0 +1,8 @@
+diff --git a/README.md b/README.md
+index c39ed2e..e7c062a 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+-# m1_rl_gpu
++# Testing M1 GPU for RL Algorithms
+ A repo for testing the M1 GPU on Reinforcement Learning algos
